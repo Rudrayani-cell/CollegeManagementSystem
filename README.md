@@ -30,6 +30,21 @@ A web-based dashboard to manage students' academic performance, attendance, and 
 ---
 
 ---
+---
+
+## 🌐 Live Demo
+
+🚀 [Click here to view the live app](https://college-dashboard-xxxxx.a.run.app)  
+_(Replace the above link with your actual deployed URL on GCP Cloud Run or any hosting platform)_
+
+---
+
+## 🐳 Docker Support
+
+### 📦 Build Docker Image
+
+```bash
+docker build -t college-dashboard .
 
 ## ⚙️ Step-by-Step Setup (Local)
 
