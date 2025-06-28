@@ -79,6 +79,23 @@ docker build -t college-dashboard .
 git clone https://github.com/Rudrayani-cell/CollegeManagementSystem.git
 cd CollegeManagementSystem
 
+---
+
+### ✅ 2. Save the file  
+Make sure `README.md` is saved properly with markdown formatting (no code block cut-off).
+
+---
+
+### ✅ 3. Add, Commit & Push
+
+In your terminal:
+
+```bash
+git add README.md
+git commit -m "Added Docker build instructions and setup guide"
+git push origin main
+
+
 ## 🗂️ Folder Structure
 college-management-system/
 ├── app.py
