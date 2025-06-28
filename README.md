@@ -37,6 +37,15 @@ A web-based dashboard to manage students' academic performance, attendance, and 
 
 🚀 [Click here to view the live app](https://college-dashboard-xxxxx.a.run.app)  
 _(Replace the above link with your actual deployed URL on GCP Cloud Run or any hosting platform)_
+---
+
+---
+
+## 📷 Project Screenshot
+
+![College Management System Dashboard](dashboard.jpg)
+
+> Smart dashboard showing student marks, analytical comparison ,attendance, and notices.
 
 ---
 
