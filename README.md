@@ -95,18 +95,27 @@ git add README.md
 git commit -m "Added Docker build instructions and setup guide"
 git push origin main
 
+## ▶️ Run Docker Container
+docker run -p 8080:8080 college-dashboard
 
 ## 🗂️ Folder Structure
 college-management-system/
 ├── app.py
 ├── templates/
-│   ├── layout.html
-│   └── dashboard.html
+│ ├── layout.html
+│ └── dashboard.html
 ├── static/
 ├── firebase-key.json (ignored)
 ├── .env
 ├── Dockerfile
 ├── README.md
 └── requirements.txt
+
+
+---
+
+## 👩‍💻 Author
+
+Built with 💡 by [Rudrayani-cell](https://github.com/Rudrayani-cell)
 
 
