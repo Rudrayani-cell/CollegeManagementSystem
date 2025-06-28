@@ -80,4 +80,16 @@ git clone https://github.com/Rudrayani-cell/CollegeManagementSystem.git
 cd CollegeManagementSystem
 
 ## 🗂️ Folder Structure
+college-management-system/
+├── app.py
+├── templates/
+│   ├── layout.html
+│   └── dashboard.html
+├── static/
+├── firebase-key.json (ignored)
+├── .env
+├── Dockerfile
+├── README.md
+└── requirements.txt
+
 
