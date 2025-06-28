@@ -29,5 +29,14 @@ A web-based dashboard to manage students' academic performance, attendance, and 
 
 ---
 
+---
+
+## ⚙️ Step-by-Step Setup (Local)
+
+### 🔄 1. Clone the Project
+```bash
+git clone https://github.com/Rudrayani-cell/CollegeManagementSystem.git
+cd CollegeManagementSystem
+
 ## 🗂️ Folder Structure
 
