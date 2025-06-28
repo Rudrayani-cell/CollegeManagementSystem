@@ -48,6 +48,22 @@ _(Replace the above link with your actual deployed URL on GCP Cloud Run or any h
 > Smart dashboard showing student marks, analytical comparison ,attendance, and notices.
 
 ---
+---
+
+## 📷 Project Screenshots
+
+### 📊 Dashboard Overview
+![Dashboard View](cloudproject2.jpg)
+
+### 🧾 Student Record Table
+![Student Table](cloudpro3.jpg)
+
+### 🧑‍🏫 Admin Panel View
+![Admin Panel](cloudpro4.jpg)
+
+### 🔐 Login Page
+![Login Page](cloudpro5.jpg)
+
 
 ## 🐳 Docker Support
 
